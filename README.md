@@ -1,5 +1,8 @@
 # 🎬 Movie Ratings Analysis
 
+## 🎯 Project Goal
+The goal of this project is to analyze movie data and identify factors that influence movie ratings.
+
 ## 📌 Project Overview
 This project analyzes movie data to explore factors that influence movie ratings. It uses real-world datasets to uncover patterns in ratings, genres, and popularity.
 
@@ -39,7 +42,12 @@ This project analyzes movie data to explore factors that influence movie ratings
 2. Run all cells
 3. Explore the visualizations
 
+## 📊 Future Improvements
+- Add more datasets for deeper analysis
+- Explore machine learning models for prediction
+- Improve visualizations with interactive charts
 ---
 
-## 👩‍💻 Author
-Hristina Tomova
+## 👤 Author
+Hristina Tomova  
+Student Project – Movie Data Analysis
