@@ -17,9 +17,19 @@ This project analyzes movie data to explore factors that influence movie ratings
 ---
 
 ## 🗂️ Data Sources
+
 - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
+- The datasets include information about movie ratings, genres, popularity, budget, and revenue.
+
+## ⚙️ Requirements
+- Python 3.x
+- pandas
+- matplotlib
+
+Install:
+pip install pandas matplotlib
 ---
 
 ## 🛠️ Technologies Used
