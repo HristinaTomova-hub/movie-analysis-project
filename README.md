@@ -58,6 +58,9 @@ pip install pandas matplotlib
 - Improve visualizations with interactive charts
 ---
 
+## 📊 Results
+- The analysis shows that movie ratings vary across genres, with some genres consistently receiving higher ratings than others.
+
 ## 👤 Author
 Hristina Tomova  
 Student Project – Movie Data Analysis
